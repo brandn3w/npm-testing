@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@brandn3w/id-generator@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@brandn3w/id-generator/-/id-generator-1.0.0.tgz#357d4e28f305529140b21dcc93d0561cd1f0636a"
-  integrity sha512-G9voXjKvAHpj5xTwm51+RSzPjz/bDNDh7QaAonARrKbkCyMzLxbJDnnJvKc6P2HcJ5by7otrgRn1mDshmpBLqg==
+"@brandn3w/id-generator@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@brandn3w/id-generator/-/id-generator-1.0.1.tgz#7a0d459a98d40e401b30a3f0d1a58739798431db"
+  integrity sha512-PU0DWzWLB3CIXAoCZM4rxDcwRQ7t9B9bVS+0k/n4OdBOz/QHAbpjjmmviTYfRq2IZCaUkhtJ8W82hqGi8iQNKQ==
 
 camel-case@3.0.x:
   version "3.0.0"
