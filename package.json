@@ -1,0 +1,10 @@
+{
+  "name": "npm-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@brandn3w/id-generator": "^1.0.0",
+    "your": "^0.2.3"
+  }
+}
