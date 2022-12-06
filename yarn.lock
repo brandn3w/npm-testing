@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@brandn3w/id-generator@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@brandn3w/id-generator/-/id-generator-1.0.1.tgz#7a0d459a98d40e401b30a3f0d1a58739798431db"
-  integrity sha512-PU0DWzWLB3CIXAoCZM4rxDcwRQ7t9B9bVS+0k/n4OdBOz/QHAbpjjmmviTYfRq2IZCaUkhtJ8W82hqGi8iQNKQ==
+"@brandn3w/id-generator@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@brandn3w/id-generator/-/id-generator-1.0.2.tgz#529f7331e1efa6390ff4090f2b04c7c4fce3e25d"
+  integrity sha512-NpGqkb0pCv0k5rjKUaEJ6DMO6azsRmrOC91axW1H5msr1YUOhAl/Am3EPw5IFrm+9zYiy/HiYbwBTH+Y+56/Cg==
 
 camel-case@3.0.x:
   version "3.0.0"
@@ -33,9 +33,9 @@ commander@~2.19.0:
   integrity sha512-6tvAOO+D6OENvRAh524Dh9jcfKTYDQAqvqezbCW82xj5X0pSrcpxtvRKHLG0yBY6SD7PSDrJaj+0AiOcKVd1Xg==
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 eventemitter3@^3.0.0:
   version "3.1.2"
